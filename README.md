@@ -1,1 +1,1 @@
-# ssb_project_quick
+https://sajuchy.github.io/ssb_project_quick/
